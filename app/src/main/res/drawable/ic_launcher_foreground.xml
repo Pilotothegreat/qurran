@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful golden radiant glow behind the moon -->
+    <path
+        android:fillColor="#15ECC865"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+    <!-- Sleek golden crescent moon -->
+    <!-- Centered crescent from path data -->
+    <path android:pathData="M58,32 C43.64,32 32,43.64 32,58 C32,72.36 43.64,84 58,84 C62.9,84 67.49,82.64 71.4,80.31 C60.9,78.33 53,69.09 53,58 C53,46.91 60.9,37.67 71.4,35.69 C67.49,33.36 62.9,32 58,32 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="32"
+                android:startY="32"
+                android:endX="71.4"
+                android:endY="84"
+                android:type="linear">
+                <item android:offset="0" android:color="#ECC865" />
+                <item android:offset="1" android:color="#D4AF37" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Glowing eight-pointed Omani star inside the crescent -->
+    <path android:pathData="M65,47 L67.5,50 L70.5,50 L68.5,52 L69.5,55 L67.5,53.5 L65.5,55 L66.5,52 L64.5,50 L67.5,50 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="64.5"
+                android:startY="47"
+                android:endX="70.5"
+                android:endY="55"
+                android:type="linear">
+                <item android:offset="0" android:color="#FFFFFF" />
+                <item android:offset="1" android:color="#ECC865" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

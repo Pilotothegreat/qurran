@@ -1,0 +1,6 @@
+{
+  "name": "اللبيب",
+  "description": "An exquisite Quran (Mushaf Style Only), dynamic prayer times with Iqama offsets, daily adhkar, Qibla compass, dynamic event bulletins, Palestinian support features, and authentic educational materials styled with Material You (M3).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
