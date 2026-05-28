@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">الإباضي</string>
+    <string name="screen_dashboard">الرئيسية</string>
+    <string name="screen_quran">القرآن الكريم</string>
+    <string name="screen_adhkar">الأذكار والأدعية</string>
+    <string name="screen_calendar">التقويم الهجري</string>
+    <string name="screen_settings">الإعدادات</string>
+    <string name="detecting_location">جاري تحديد الموقع عبر GPS…</string>
+    <string name="accuracy_high">دقة البوصلة: عالية ✓</string>
+    <string name="accuracy_medium">دقة البوصلة: متوسطة</string>
+    <string name="accuracy_low_calibrate">دقة منخفضة — قم بتحريك الجهاز</string>
+    <string name="compass_calibrate_hint">قم بتحريك الجهاز في شكل ∞ لمعايرة البوصلة</string>
+    <string name="facing_kabah">باتجاه الكعبة 🕋</string>
+    <string name="qibla_angle">زاوية القبلة من الشمال</string>
+    <string name="distance_to_makkah">المسافة إلى مكة المكرمة</string>
+    <string name="calibration_detail">محاذاة إحداثيات الموقع</string>
+    
+    <!-- Settings Screen -->
+    <string name="settings_title">إعدادات التطبيق</string>
+    <string name="theme_mode">مظهر التطبيق</string>
+    <string name="amoled_mode">وضع AMOLED الداكن للغاية</string>
+    <string name="dynamic_color">الألوان الديناميكية (ماتيريال يو)</string>
+    <string name="font_scale">حجم الخط</string>
+    <string name="normal">طبيعي</string>
+    <string name="large">كبير (+١٥٪)</string>
+    <string name="xlarge">كبير جداً (+٣٠٪)</string>
+    <string name="asr_school">مذهب حساب صلاة العصر</string>
+    <string name="school_standard">الجمهور (إباضي/شافعي/مالكي/حنبلي)</string>
+    <string name="school_hanafi">الحنفي</string>
+    <string name="hijri_offset">تعديل التقويم الهجري (بالأيام)</string>
+    <string name="notification_sound">صوت التنبيهات</string>
+    <string name="use_online_prayer">استخدام أوقات الصلاة عبر الإنترنت</string>
+    <string name="show_palestine_updates">عرض تحديثات فلسطين في الرئيسية</string>
+    <string name="prayer_offsets">تعديل أوقات الصلاة يدوياً (بالدقائق)</string>
+    
+    <!-- Hadith and Qibla entry buttons on Dashboard -->
+    <string name="hadith_library">المكتبة الحديثية</string>
+    <string name="qibla_compass">بوصلة القبلة</string>
+    <string name="read_hadith">قراءة واستعراض الأحاديث النبوية</string>
+    <string name="find_qibla">تحديد اتجاه الكعبة المشرفة</string>
+
+    <!-- Quran Screen -->
+    <string name="loading_verses">جاري تحميل وتدقيق الآيات العثمانية الشريفة…</string>
+    <string name="quran_index_title">فهرس سور القرآن الكريم</string>
+    <string name="search_surah_placeholder">ابحث عن سورة بالاسم العربي أو الإنجليزي…</string>
+    <string name="last_read_label">آخر قراءة • سورة %1$s</string>
+    <string name="last_read_page_desc">اضغط للمتابعة من الصفحة %1$d</string>
+    <string name="offline_need_internet_title">السورة غير متوفرة دون اتصال</string>
+    <string name="offline_need_internet_desc">تحميل سورة \"%1$s\" لأول مرة يتطلب اتصالاً بنشاط بالإنترنت لحفظ المصحف الشريف في الذاكرة المحلية للجهاز.</string>
+    <string name="retry_button">إعادة المحاولة</string>
+    <string name="back_index_button">الرجوع لفهرس السور</string>
+    <string name="quick_jump_label">الانتقال السريع اليدوي:</string>
+    <string name="page_num_label">صفحة %1$d من %2$d</string>
+    <string name="prev_page_button">الصفحة السابقة</string>
+    <string name="next_page_button">الصفحة التالية</string>
+    <string name="bookmark_update_toast">تم تعديل حالة الإشارة المرجعية</string>
+</resources>
